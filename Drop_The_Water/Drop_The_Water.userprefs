@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/MainPage/mainEvent.cs">
+    <Files>
+      <File FileName="Assets/Code/MainPage/Objects/Instruction/Instruction.cs" Line="148" Column="28" />
+      <File FileName="Assets/Code/MainPage/Objects/Instruction/btnEvent.cs" Line="100" Column="11" />
+      <File FileName="Assets/Code/MainPage/NewBehaviourScript.cs" Line="17" Column="1" />
+      <File FileName="Assets/Code/MainPage/mainEvent.cs" Line="3" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
